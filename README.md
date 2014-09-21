@@ -12,8 +12,8 @@ This script makes use of `dplyr`
 
 Run run_analysis.R in R or RStudio 
 
-  source("run_analysis.R")
-  tidy_dataset <- run_analysis()
+    source("run_analysis.R")
+    tidy_dataset <- run_analysis()
 
 ## What this script does?
 
