@@ -11,18 +11,25 @@ The description of the original data set can be obtained from [http://archive.ic
 
 **Subject ID**
 Column Number: 1
+
 Column Label: "Subject"
+
 Missing Data Code: NA
+
 Data Type: Positive Integer
+
 Value: 1 to 30
 
 **Activity Label**
 Column Number: 2
+
 Column Label: "Activity"
+
 Missing Data Code: ""
+
 Data Type: String
-Value: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING
-"UPSTAIRS", "WALKING DOWNSTAIRS"
+
+Value: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING UPSTAIRS", "WALKING DOWNSTAIRS"
 
 Column 3 to 68 are the average value of the following measurements **in order** (the number denote the column number of the variable):
 
